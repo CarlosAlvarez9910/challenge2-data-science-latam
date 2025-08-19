@@ -8,7 +8,7 @@ Este proyecto tiene como objetivo analizar los factores que influyen en la cance
 ## Contenido del Repositorio
 
 *   `TelecomX_Data.json`: Archivo de datos original utilizado para el análisis.
-*   `tu_notebook.ipynb`: El notebook de Google Colab que contiene el código para la carga de datos, limpieza, preprocesamiento, modelado y evaluación. (Reemplaza `tu_notebook.ipynb` con el nombre real de tu archivo de notebook).
+*   `challenge2-data-science-latam`: El notebook de Google Colab que contiene el código para la carga de datos, limpieza, preprocesamiento, modelado y evaluación.
 *   `README.md`: Este archivo.
 
 ## Cómo Ejecutar el Notebook
