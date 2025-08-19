@@ -37,4 +37,4 @@ El análisis incluye las siguientes etapas:
 
 
 ##**Autor**
-***Jose Carlos Alvarez Onofre***
+**Jose Carlos Alvarez Onofre**
