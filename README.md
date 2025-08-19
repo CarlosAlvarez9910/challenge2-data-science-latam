@@ -34,5 +34,7 @@ El análisis incluye las siguientes etapas:
 6.  **Evaluación del Modelo:** Evaluación del rendimiento de los modelos utilizando métricas como Exactitud, Precisión, Recall, F1-score y Matriz de Confusión.
 7.  **Análisis de Importancia de Variables:** Identificación de las variables más relevantes para la predicción de la cancelación según cada modelo.
 8.  **Informe y Estrategias de Retención:** Elaboración de un informe con los hallazgos clave y propuestas de estrategias de retención.
+
+
 ##**Autor**
 ***Jose Carlos Alvarez Onofre***
