@@ -36,5 +36,5 @@ El análisis incluye las siguientes etapas:
 8.  **Informe y Estrategias de Retención:** Elaboración de un informe con los hallazgos clave y propuestas de estrategias de retención.
 
 
-##**Autor**
+**Autor**
 **Jose Carlos Alvarez Onofre**
